@@ -55,6 +55,7 @@ In this project I did experiment with different values for the various hyperpare
 
 ## Results
 The training process was acceptably fast and the environment was solved (average score of 100 consecutive episodes crossed 0.5) after 2760 episodes.
+
 ![Best Model Score](./plot.png)
 
 ## Future Work
